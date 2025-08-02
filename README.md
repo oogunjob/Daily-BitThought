@@ -9,7 +9,7 @@
 - "Fiat dies. Bitcoin doesn't."
 
 ### Why?
-In the noise of crypto and finance, it's easy to forget the fundamentals. Daily BitThought brings users back to the core truths — minimal, immutable, and uncompromising — just like Bitcoin.
+In the noise of crypto and finance, it's easy to forget the fundamentals and core principle of Bitcoin. Daily BitThought brings users back to the core truths — minimal, immutable, and uncompromising — just like Bitcoin.
 
 ## 🤝 Contributing
 
