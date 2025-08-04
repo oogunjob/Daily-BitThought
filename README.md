@@ -18,7 +18,7 @@ If you have a message, reminder, or principle you think belongs here, feel free 
 ### How to contribute:
 
 1. **Fork** the repo  
-2. **Add** your message to the appropriate file (e.g. `messages.json` or similar)  
+2. **Add** your message to bitthoughts.txt
 3. **Submit** a pull request with a short description of your addition  
 4. Ensure your message aligns with the spirit of Bitcoin: educational, foundational, and signal > noise
 
