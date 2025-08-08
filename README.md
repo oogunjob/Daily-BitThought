@@ -29,3 +29,13 @@ If you have a message, reminder, or principle you think belongs here, feel free 
 - Inspirational or philosophical thoughts  
 - Satoshi quotes  
 - Community quotes (attributed when possible)
+
+## 💸 Donations
+
+Love **Daily BitThought** and want to support **Odyssey: Your Bitcoin Journey**? Your Bitcoin donations help fund the development of Odyssey, a beginner-friendly app that educates users about Bitcoin through features like price tracking, quizzes, and more. By donating, you’re helping keep Odyssey accessible to all while supporting open-source libraries like this one.
+
+- **Bitcoin Address**: bc1qzr2xpqjvjuknhmhpgm3qfv0dhss9v9hhnme9rw
+- **How to Donate**: Send any amount of BTC to the address above. Every satoshi fuels new features, content, and community initiatives for Odyssey!
+- **Why Donate?**: Your support ensures Odyssey remains a high-quality resource for Bitcoin learners worldwide, while advancing open-source tools like Daily BitThought and more libraries and tools to come.
+
+Thank you for joining the Bitcoin learning journey!
