@@ -25,3 +25,20 @@ Buy Bitcoin
 Bitcoin will do to banks what email did to the postal industry
 There is no second best
 Only buy Bitcoin with the money you want to keep
+Only 21 million bitcoins will ever exist. This scarcity makes it immune to inflation from over-printing like fiat currencies.
+Unlike gold, Bitcoin’s scarcity is digitally enforced by math and code, making it more predictable than any commodity.
+No government or bank can block, freeze, or reverse a Bitcoin transaction if you control your private keys.
+Anyone with an internet connection can use Bitcoin, regardless of where they live or their financial status.
+You don't need a bank to hold your Bitcoin — "be your own bank" by securing it in a digital or hardware wallet.
+If stored properly, Bitcoin is almost impossible to confiscate, unlike gold, cash, or real estate.
+Bitcoin’s network is protected by miners using proof-of-work, making attacks extremely costly and unlikely.
+Bitcoin’s energy use is what makes the network the most secure computer system in history.
+Every ~4 years, the reward for mining Bitcoin is cut in half, reducing new supply and often driving long-term price appreciation.
+You can carry millions of dollars of Bitcoin across borders in your head by memorizing a 12-word seed phrase.
+All Bitcoin transactions are public and verifiable on the blockchain, making it one of the most transparent financial systems.
+Since 2009, Bitcoin has outperformed stocks, bonds, gold, and real estate, becoming the best-performing asset of the past decade.
+In countries with hyperinflation like Venezuela and Argentina, Bitcoin gives people a way to preserve wealth.
+Over 100 million people worldwide own Bitcoin, and thousands of businesses accept it for payments.
+The Lightning Network allows instant, nearly free transactions — making Bitcoin scalable for everyday payments.
+While governments print trillions in fiat, Bitcoin’s supply schedule is mathematically fixed and predictable.
+Many investors view Bitcoin as "digital gold," a safe haven against monetary debasement and geopolitical instability.
