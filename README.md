@@ -1,6 +1,6 @@
 # Daily ₿itThought 🧠
 
-**Daily BitThought** delivers short, powerful Bitcoin messages to users once a day. Whether it's a reminder of sound money principles or a timeless Satoshi-inspired truth, these messages aim to educate, inspire, and reinforce the Bitcoin mindset.
+**Daily BitThought** delivers short, powerful Bitcoin messages to users once a day on the Odyssey mobile app. Whether it's a reminder of sound money principles or a timeless Satoshi-inspired truth, these messages aim to educate, inspire, and reinforce the Bitcoin mindset.
 
 ### Example Messages
 - "There will only ever be 21 million."
