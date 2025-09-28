@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="Odyssey Logo" width="200" height="200">
+  <img src="images/logo.png" alt="Odyssey Logo" width="200" height="200">
   
   # Daily ₿itThought 🧠
   
